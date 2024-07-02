@@ -47,22 +47,3 @@ html {
     vertical-align: middle;
     line-height: 30px;
 }
-
-
-
-/* non sembra il modo migliore*/
-.align-middle {
-    margin: auto 0;
-}
-
-.align-bottom {
-    margin-top: auto;
-}
-
-.row.around-row {
-    justify-content: space-around;
-}
-
-.row.between-row {
-    justify-content: space-between;
-}

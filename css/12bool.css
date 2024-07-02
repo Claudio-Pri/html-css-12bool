@@ -18,6 +18,44 @@
     flex-wrap: wrap;
 }
 
+/* DA RIPORTARE IN RESPONSIVE*/
+.align-start {
+    align-items: flex-start;
+}
+
+.align-center {
+    align-items: center;
+
+}
+
+.align-end {
+    align-items: flex-end;
+}
+
+.jc-start {
+    justify-content: flex-start;
+}
+
+.jc-center {
+    justify-content: center;
+
+}
+
+.jc-end {
+    justify-content: flex-end;
+}
+
+.jc-around {
+    justify-content: space-around;
+
+}
+
+.jc-between {
+    justify-content: space-between;
+}
+
+
+
 
 [class*="col-"] {
     flex: 0 0 auto;
